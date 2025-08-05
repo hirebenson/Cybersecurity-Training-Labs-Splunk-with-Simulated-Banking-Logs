@@ -1,0 +1,81 @@
+timestamp,user_id,username,location,event_type,status,transaction_amount,account_balance,ip_address,message,event_id,event_category
+2025-07-30T08:00:00Z,105,rahul.verma,Hyderabad,deposit,success,1000.0,15000,103.5.134.200,Deposit completed successfully.,a25beb9a-b2f8-416e-afad-d95c697b215e,transaction
+2025-07-30T08:04:39Z,106,fatima.khan,Kolkata,balance_check,success,0.0,20000,122.169.50.20,Balance checked.,7e3840f3-fe94-451a-b1d5-53fed7f37172,account_inquiry
+2025-07-30T08:07:16Z,105,rahul.verma,Hyderabad,password_reset,success,0.0,10000,49.207.56.78,Password reset via OTP.,2faccc52-d21a-4962-bcf3-c7b176a00640,authentication
+2025-07-30T08:02:09Z,107,vinay.menon,Pune,logout,success,0.0,15000,49.207.56.78,User logged out.,d168e3b5-823b-4e7a-b468-dc34705f6aa2,authentication
+2025-07-30T08:09:12Z,104,meera.jain,Chennai,deposit,success,2500.0,50000,117.98.25.103,Deposit completed successfully.,cfa26103-182d-4462-83c3-d786602e3170,transaction
+2025-07-30T08:06:35Z,106,fatima.khan,Kolkata,balance_check,success,0.0,100000,103.5.134.200,Balance checked.,eb980a74-c16f-47e6-8d4e-f3bc32486f86,account_inquiry
+2025-07-30T08:08:42Z,104,meera.jain,Chennai,password_reset,success,0.0,20000,49.207.56.78,Password reset via OTP.,a945be08-8109-4c5f-9804-1739340c94d8,authentication
+2025-07-30T08:34:53Z,107,vinay.menon,Pune,transfer,failed,1000.0,50000,106.51.36.210,Transfer failed due to insufficient balance.,2b2ae591-55dc-4dc5-a957-9e49c0dd27fb,transaction
+2025-07-30T08:20:40Z,103,samuel.kumar,Bangalore,logout,success,0.0,15000,103.21.244.10,User logged out.,7b2c08e3-1cae-4a4a-bd95-36e695b2ac9f,authentication
+2025-07-30T08:40:03Z,104,meera.jain,Chennai,password_reset,success,0.0,10000,103.21.244.10,Password reset via OTP.,2937145d-7be3-4055-b791-ea34393dffd8,authentication
+2025-07-30T08:08:30Z,108,lata.nair,Jaipur,transfer,success,2500.0,5000,182.75.45.23,Amount transferred successfully.,d00881bd-3b7a-4741-b471-559a0ecb26fd,transaction
+2025-07-30T08:08:15Z,108,lata.nair,Jaipur,logout,success,0.0,10000,106.51.36.210,User logged out.,cc99a355-6f8b-4696-a15b-6727765ffe86,authentication
+2025-07-30T08:26:00Z,107,vinay.menon,Pune,logout,success,0.0,100000,103.5.134.200,User logged out.,ebe50d59-2652-49f9-9198-eb6799f2746d,authentication
+2025-07-30T08:19:04Z,102,rekha.singh,Delhi,transfer,failed,5000.0,10000,106.51.36.210,Transfer failed due to insufficient balance.,38ad1969-67ba-4b11-890d-48d416a7fba7,transaction
+2025-07-30T08:28:00Z,106,fatima.khan,Kolkata,transfer,success,2500.0,100000,103.5.134.200,Amount transferred successfully.,4d9a6617-fe5c-4cb7-947b-99b53e4cc987,transaction
+2025-07-30T08:10:15Z,101,ajay.sharma,Mumbai,password_reset,success,0.0,100000,49.207.56.78,Password reset via OTP.,f26927d6-36f8-4488-a3be-2e14054a8c95,authentication
+2025-07-30T09:13:04Z,103,samuel.kumar,Bangalore,withdrawal,success,500.0,50000,122.169.50.20,Withdrawal successful.,0249fc18-3f0d-4189-be78-d4891952ea3c,transaction
+2025-07-30T08:43:04Z,101,ajay.sharma,Mumbai,balance_check,success,0.0,15000,49.204.12.89,Balance checked.,bc0866dd-9799-4446-9b33-bda3c41aa0c2,account_inquiry
+2025-07-30T09:09:00Z,103,samuel.kumar,Bangalore,password_reset,success,0.0,20000,49.204.12.89,Password reset via OTP.,2ba17b77-e7a9-4f92-8cd5-8ac1ae368ab1,authentication
+2025-07-30T09:27:05Z,105,rahul.verma,Hyderabad,password_reset,success,0.0,15000,117.98.25.103,Password reset via OTP.,8a057599-ec4f-413c-aad9-2465ba6e8164,authentication
+2025-07-30T08:20:40Z,107,vinay.menon,Pune,transfer,success,2500.0,10000,103.5.134.200,Amount transferred successfully.,f430186d-f8c8-43f2-8d25-46ffddc6db89,transaction
+2025-07-30T08:44:48Z,101,ajay.sharma,Mumbai,password_reset,success,0.0,50000,122.169.50.20,Password reset via OTP.,9c2a0227-66b6-4e9c-97a8-164acf3b9a19,authentication
+2025-07-30T08:56:28Z,101,ajay.sharma,Mumbai,balance_check,success,0.0,5000,122.169.50.20,Balance checked.,c4e52e4d-4284-40a7-a9cc-dc01923ec8f4,account_inquiry
+2025-07-30T08:11:30Z,103,samuel.kumar,Bangalore,balance_check,success,0.0,5000,106.51.36.210,Balance checked.,e72dc91f-c199-413b-9926-8a91c1fa2efd,account_inquiry
+2025-07-30T08:57:12Z,101,ajay.sharma,Mumbai,password_reset,success,0.0,50000,106.51.36.210,Password reset via OTP.,c236ba61-fcbe-4d8c-987f-116234d357a2,authentication
+2025-07-30T09:21:40Z,105,rahul.verma,Hyderabad,password_reset,success,0.0,15000,49.207.56.78,Password reset via OTP.,505f2103-83a4-4edf-927f-161fd93eb997,authentication
+2025-07-30T08:17:46Z,105,rahul.verma,Hyderabad,transfer,failed,10000.0,15000,103.5.134.200,Transfer failed due to insufficient balance.,3e41f14e-a062-4ef0-92e4-0fe996e33142,transaction
+2025-07-30T08:18:54Z,106,fatima.khan,Kolkata,logout,success,0.0,10000,106.51.36.210,User logged out.,7d513880-c8cf-42b9-936d-674f93b51a3c,authentication
+2025-07-30T08:42:00Z,101,ajay.sharma,Mumbai,balance_check,success,0.0,10000,49.204.12.89,Balance checked.,a0bbc24f-a090-4877-b6a3-4f9cce1cb44f,account_inquiry
+2025-07-30T09:50:41Z,107,vinay.menon,Pune,deposit,success,2500.0,50000,122.169.50.20,Deposit completed successfully.,0f5da5c1-92bc-469b-908b-d506950de614,transaction
+2025-07-30T10:15:00Z,106,fatima.khan,Kolkata,balance_check,success,0.0,50000,117.98.25.103,Balance checked.,ba50564b-f05b-4040-ae18-a081f62e00a3,account_inquiry
+2025-07-30T10:21:03Z,106,fatima.khan,Kolkata,password_reset,success,0.0,10000,49.204.12.89,Password reset via OTP.,d8ac20d4-8d82-43ee-8263-5f91cafa2edd,authentication
+2025-07-30T10:24:00Z,101,ajay.sharma,Mumbai,balance_check,success,0.0,15000,106.51.36.210,Balance checked.,0df08acd-95b4-45aa-920a-46c7f7eefbd0,account_inquiry
+2025-07-30T10:40:36Z,103,samuel.kumar,Bangalore,login,success,0.0,15000,122.169.50.20,User logged in successfully.,0ad73b93-645a-4707-8ad8-8da5464a7335,authentication
+2025-07-30T10:12:02Z,104,meera.jain,Chennai,withdrawal,failed,10000.0,20000,182.75.45.23,Withdrawal declined due to limit exceeded.,67301917-d1ca-42c1-b390-095937fdd3b9,transaction
+2025-07-30T10:14:45Z,106,fatima.khan,Kolkata,withdrawal,failed,5000.0,10000,182.75.45.23,Withdrawal declined due to limit exceeded.,ee463f52-3632-4862-b962-5e9757965a20,transaction
+2025-07-30T10:39:36Z,103,samuel.kumar,Bangalore,login,success,0.0,5000,103.5.134.200,User logged in successfully.,13a16fbd-734c-4065-8104-f822cc147f4c,authentication
+2025-07-30T09:13:23Z,106,fatima.khan,Kolkata,deposit,success,10000.0,50000,106.51.36.210,Deposit completed successfully.,75ba00f2-88ed-43f7-8ccc-d42b4ef6f115,transaction
+2025-07-30T09:46:24Z,101,ajay.sharma,Mumbai,login,success,0.0,5000,103.21.244.10,User logged in successfully.,f176e048-6744-4205-a6c0-3af2cbc1cd55,authentication
+2025-07-30T11:10:27Z,108,lata.nair,Jaipur,password_reset,success,0.0,5000,182.75.45.23,Password reset via OTP.,2c81efec-4364-4c44-8fc7-de641665e5f3,authentication
+2025-07-30T10:43:20Z,101,ajay.sharma,Mumbai,transfer,failed,5000.0,100000,122.169.50.20,Transfer failed due to insufficient balance.,994ca4d8-43e5-405e-b630-5980c00debfe,transaction
+2025-07-30T08:36:13Z,105,rahul.verma,Hyderabad,login,failed,0.0,15000,122.169.50.20,Failed login attempt - wrong password.,7a231e2d-3c65-4768-8933-d0b5bd4eddce,authentication
+2025-07-30T10:59:54Z,108,lata.nair,Jaipur,login,success,0.0,50000,117.98.25.103,User logged in successfully.,48f284ed-6a68-4d1d-9372-ccfa62c70700,authentication
+2025-07-30T09:29:35Z,102,rekha.singh,Delhi,withdrawal,success,1000.0,100000,103.21.244.10,Withdrawal successful.,3c48f5b2-2d4a-4df2-837a-510329b3b7e7,transaction
+2025-07-30T09:34:36Z,103,samuel.kumar,Bangalore,deposit,success,2500.0,50000,106.51.36.210,Deposit completed successfully.,61688768-c14a-433c-9aa8-9ed21b77a1ee,transaction
+2025-07-30T09:46:30Z,106,fatima.khan,Kolkata,login,failed,0.0,10000,49.204.12.89,Failed login attempt - wrong password.,94eeba08-99b4-4aa3-8723-e645f690c9b7,authentication
+2025-07-30T08:46:46Z,107,vinay.menon,Pune,balance_check,success,0.0,50000,103.5.134.200,Balance checked.,551b99ee-fb0a-41f5-8f23-cdf16dfbd982,account_inquiry
+2025-07-30T09:49:40Z,105,rahul.verma,Hyderabad,transfer,success,500.0,50000,103.21.244.10,Amount transferred successfully.,3ea14e0e-e3d7-4dbe-9fe7-304fc438b8e9,transaction
+2025-07-30T09:48:00Z,108,lata.nair,Jaipur,password_reset,success,0.0,100000,117.98.25.103,Password reset via OTP.,0e53a1dd-fd57-457c-95c1-da1cdb739321,authentication
+2025-07-30T11:33:09Z,103,samuel.kumar,Bangalore,login,failed,0.0,100000,182.75.45.23,Failed login attempt - wrong password.,32197886-ff91-463a-9fec-e00c23eaf625,authentication
+2025-07-30T09:16:40Z,104,meera.jain,Chennai,logout,success,0.0,50000,182.75.45.23,User logged out.,cbe9ede4-c025-4081-b10d-fed476353c0d,authentication
+2025-07-30T08:34:51Z,105,rahul.verma,Hyderabad,balance_check,success,0.0,5000,122.169.50.20,Balance checked.,39481747-d92a-4905-8fb2-9cb0af2ba088,account_inquiry
+2025-07-30T09:46:36Z,103,samuel.kumar,Bangalore,password_reset,success,0.0,20000,49.207.56.78,Password reset via OTP.,1a6ec9eb-8a5b-4abe-a437-2a7e1063947e,authentication
+2025-07-30T08:28:16Z,104,meera.jain,Chennai,logout,success,0.0,50000,103.5.134.200,User logged out.,c0333448-4297-49c7-82c5-46ee94758b45,authentication
+2025-07-30T11:40:30Z,102,rekha.singh,Delhi,password_reset,success,0.0,5000,122.169.50.20,Password reset via OTP.,0699edde-b90c-4e7b-9681-a29c88c78c77,authentication
+2025-07-30T11:05:10Z,107,vinay.menon,Pune,deposit,success,10000.0,10000,106.51.36.210,Deposit completed successfully.,a45bf701-1329-48f2-a92d-2256b7bd9e8a,transaction
+2025-07-30T10:52:40Z,105,rahul.verma,Hyderabad,withdrawal,success,500.0,15000,122.169.50.20,Withdrawal successful.,8149906c-2d0a-45ad-9bf0-b308368b5ba2,transaction
+2025-07-30T12:15:33Z,101,ajay.sharma,Mumbai,deposit,success,500.0,50000,117.98.25.103,Deposit completed successfully.,29327b2e-9e9b-4eb9-ae64-fb3ab8640833,transaction
+2025-07-30T12:27:46Z,102,rekha.singh,Delhi,password_reset,success,0.0,10000,49.204.12.89,Password reset via OTP.,599ee06b-6d60-4d9a-b6ab-d5d5bc29307a,authentication
+2025-07-30T09:33:25Z,103,samuel.kumar,Bangalore,transfer,success,10000.0,50000,122.169.50.20,Amount transferred successfully.,794fb924-dda6-41cf-b1c3-ebdc7ab9bb19,transaction
+2025-07-30T12:45:00Z,101,ajay.sharma,Mumbai,transfer,success,10000.0,15000,122.169.50.20,Amount transferred successfully.,f78fbfaf-a56a-459d-ad74-a202537b6928,transaction
+2025-07-30T11:22:19Z,108,lata.nair,Jaipur,transfer,failed,5000.0,50000,117.98.25.103,Transfer failed due to insufficient balance.,1261b277-da52-4ca1-847c-4970c9eea495,transaction
+2025-07-30T09:09:14Z,105,rahul.verma,Hyderabad,balance_check,success,0.0,10000,103.21.244.10,Balance checked.,e3fccc67-40f5-4673-a784-4d6e41a71f71,account_inquiry
+2025-07-30T12:45:36Z,108,lata.nair,Jaipur,withdrawal,failed,5000.0,50000,117.98.25.103,Withdrawal declined due to limit exceeded.,7037ac86-e5e0-44fd-aefe-09b6ced03e6f,transaction
+2025-07-30T11:38:40Z,103,samuel.kumar,Bangalore,withdrawal,failed,5000.0,100000,49.204.12.89,Withdrawal declined due to limit exceeded.,57e87047-59d7-4c03-a9b9-5fe87cd887ae,transaction
+2025-07-30T13:13:05Z,102,rekha.singh,Delhi,transfer,failed,1000.0,50000,103.21.244.10,Transfer failed due to insufficient balance.,56d3a42b-8ba7-4c5b-a3de-1838bd7486db,transaction
+2025-07-30T13:23:24Z,101,ajay.sharma,Mumbai,transfer,failed,2500.0,100000,49.204.12.89,Transfer failed due to insufficient balance.,d6a17776-75c1-4b82-90d6-844458243823,transaction
+2025-07-30T11:04:15Z,104,meera.jain,Chennai,login,failed,0.0,50000,122.169.50.20,Failed login attempt - wrong password.,380beb78-fe8f-45b7-b62c-41534f892c47,authentication
+2025-07-30T13:35:28Z,105,rahul.verma,Hyderabad,balance_check,success,0.0,10000,117.98.25.103,Balance checked.,9666b779-980c-4f15-b864-9c7527c93aa5,account_inquiry
+2025-07-30T13:22:00Z,107,vinay.menon,Pune,login,failed,0.0,15000,106.51.36.210,Failed login attempt - wrong password.,a33db05e-6d0b-418c-99d0-75c1101cf24a,authentication
+2025-07-30T12:31:50Z,104,meera.jain,Chennai,transfer,success,2500.0,10000,49.204.12.89,Amount transferred successfully.,62b9a7e0-11c8-47cb-8f85-6cae5f4f93d6,transaction
+2025-07-30T10:57:30Z,107,vinay.menon,Pune,logout,success,0.0,100000,49.207.56.78,User logged out.,86e71c19-b6f2-466c-9228-b6d2ab4ea00f,authentication
+2025-07-30T12:30:00Z,105,rahul.verma,Hyderabad,logout,success,0.0,10000,49.204.12.89,User logged out.,e7af4e1a-b44d-40b0-8bb1-596627a945f5,authentication
+2025-07-30T09:39:46Z,108,lata.nair,Jaipur,withdrawal,failed,500.0,100000,49.207.56.78,Withdrawal declined due to limit exceeded.,3699e88a-5bf7-47af-a921-e5162c2c51b3,transaction
+2025-07-30T11:09:56Z,105,rahul.verma,Hyderabad,balance_check,success,0.0,15000,182.75.45.23,Balance checked.,751b7894-d306-4300-a1b0-be29163d2e9b,account_inquiry
+2025-07-30T10:13:45Z,102,rekha.singh,Delhi,login,failed,0.0,15000,182.75.45.23,Failed login attempt - wrong password.,a6ceab45-1d47-4902-a67d-316c0a453a31,authentication
+2025-07-30T09:26:08Z,103,samuel.kumar,Bangalore,withdrawal,failed,1000.0,50000,106.51.36.210,Withdrawal declined due to limit exceeded.,91cc060c-1e12-4745-bf34-8d8e4c801b1d,transaction
+2025-07-30T09:29:50Z,101,ajay.sharma,Mumbai,withdrawal,success,10000.0,20000,106.51.36.210,Withdrawal successful.,34f117ba-c360-40a2-8e78-88b60bc5a978,transaction
+2025-07-30T11:30:36Z,101,ajay.sharma,Mumbai,login,success,0.0,5000,122.169.50.20,User logged in successfully.,dbde4c9b-f8ce-4066-90c4-5e33a304bda3,authentication
+2025-07-30T11:41:12Z,102,rekha.singh,Delhi,logout,success,0.0,20000,49.204.12.89,User logged out.,d3c5fe0e-fd96-48aa-8644-16c2fcd8c956,authentication
